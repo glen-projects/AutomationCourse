@@ -13,7 +13,7 @@ public WebDriver driver;
 	public void initialiseBrowser() 
 	{
 		driver = new ChromeDriver();
-		driver.get("https://www.saucedemo.com/v1/");
+		driver.get("https://www.saucedemo.com/v1/index.html");
 		driver.manage().window().maximize();
 		
 	}

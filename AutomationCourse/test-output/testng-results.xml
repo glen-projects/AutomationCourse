@@ -2,88 +2,56 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-28T12:50:11 GST" name="Default suite" finished-at="2025-07-28T12:50:22 GST" duration-ms="11022">
+  <suite started-at="2025-07-30T19:29:46 GST" name="Default suite" finished-at="2025-07-30T19:30:10 GST" duration-ms="24570">
     <groups>
     </groups>
-    <test started-at="2025-07-28T12:50:11 GST" name="Default test" finished-at="2025-07-28T12:50:22 GST" duration-ms="11022">
+    <test started-at="2025-07-30T19:29:46 GST" name="Default test" finished-at="2025-07-30T19:30:10 GST" duration-ms="24570">
       <class name="testScript.LoginTest">
-        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:12 GST" name="initialiseBrowser" finished-at="2025-07-28T12:50:14 GST" duration-ms="2353" status="PASS">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:29:46 GST" name="initialiseBrowser" finished-at="2025-07-30T19:29:50 GST" duration-ms="3816" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialiseBrowser -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:14 GST" name="beforeMethod" finished-at="2025-07-28T12:50:14 GST" duration-ms="84" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyLoginWithIncorrectUsernameAndIncorrectPassword()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:14 GST" name="verifyLoginWithIncorrectUsernameAndIncorrectPassword" finished-at="2025-07-28T12:50:14 GST" duration-ms="302" status="PASS">
+        <test-method signature="verifyLoginWithIncorrectUsernameAndIncorrectPassword()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:29:50 GST" name="verifyLoginWithIncorrectUsernameAndIncorrectPassword" finished-at="2025-07-30T19:29:51 GST" duration-ms="1018" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithIncorrectUsernameAndIncorrectPassword -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:14 GST" name="afterMethod" finished-at="2025-07-28T12:50:14 GST" duration-ms="201" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="browserClose()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:14 GST" name="browserClose" finished-at="2025-07-28T12:50:14 GST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:29:51 GST" name="browserClose" finished-at="2025-07-30T19:29:51 GST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserClose -->
-        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:14 GST" name="initialiseBrowser" finished-at="2025-07-28T12:50:16 GST" duration-ms="1795" status="PASS">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:29:51 GST" name="initialiseBrowser" finished-at="2025-07-30T19:29:57 GST" duration-ms="6381" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialiseBrowser -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:16 GST" name="beforeMethod" finished-at="2025-07-28T12:50:16 GST" duration-ms="113" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyLoginWithIncorrectUsernameValidPassword()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:16 GST" name="verifyLoginWithIncorrectUsernameValidPassword" finished-at="2025-07-28T12:50:17 GST" duration-ms="384" status="PASS">
+        <test-method signature="verifyLoginWithIncorrectUsernameValidPassword()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:29:57 GST" name="verifyLoginWithIncorrectUsernameValidPassword" finished-at="2025-07-30T19:29:58 GST" duration-ms="626" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithIncorrectUsernameValidPassword -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:17 GST" name="afterMethod" finished-at="2025-07-28T12:50:17 GST" duration-ms="212" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="browserClose()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:17 GST" name="browserClose" finished-at="2025-07-28T12:50:17 GST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:29:58 GST" name="browserClose" finished-at="2025-07-30T19:29:58 GST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserClose -->
-        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:17 GST" name="initialiseBrowser" finished-at="2025-07-28T12:50:19 GST" duration-ms="1895" status="PASS">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:29:58 GST" name="initialiseBrowser" finished-at="2025-07-30T19:30:00 GST" duration-ms="2449" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialiseBrowser -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:19 GST" name="beforeMethod" finished-at="2025-07-28T12:50:19 GST" duration-ms="105" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyLoginWithValidUsernameInvalidPassword()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:19 GST" name="verifyLoginWithValidUsernameInvalidPassword" finished-at="2025-07-28T12:50:19 GST" duration-ms="293" status="PASS">
+        <test-method signature="verifyLoginWithValidUsernameInvalidPassword()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:30:00 GST" name="verifyLoginWithValidUsernameInvalidPassword" finished-at="2025-07-30T19:30:01 GST" duration-ms="868" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithValidUsernameInvalidPassword -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:19 GST" name="afterMethod" finished-at="2025-07-28T12:50:20 GST" duration-ms="246" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="browserClose()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:20 GST" name="browserClose" finished-at="2025-07-28T12:50:20 GST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:30:01 GST" name="browserClose" finished-at="2025-07-30T19:30:01 GST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserClose -->
-        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:20 GST" name="initialiseBrowser" finished-at="2025-07-28T12:50:21 GST" duration-ms="1686" status="PASS">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:30:01 GST" name="initialiseBrowser" finished-at="2025-07-30T19:30:06 GST" duration-ms="5054" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialiseBrowser -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:21 GST" name="beforeMethod" finished-at="2025-07-28T12:50:21 GST" duration-ms="89" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyUserLoginWithValidCredentials()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:21 GST" name="verifyUserLoginWithValidCredentials" finished-at="2025-07-28T12:50:22 GST" duration-ms="1064" status="PASS">
+        <test-method signature="verifyUserLoginWithValidCredentials()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:30:06 GST" name="verifyUserLoginWithValidCredentials" finished-at="2025-07-30T19:30:10 GST" duration-ms="4288" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyUserLoginWithValidCredentials -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:22 GST" name="afterMethod" finished-at="2025-07-28T12:50:22 GST" duration-ms="137" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="browserClose()[pri:0, instance:testScript.LoginTest@35d019a3]" started-at="2025-07-28T12:50:22 GST" name="browserClose" finished-at="2025-07-28T12:50:22 GST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:testScript.LoginTest@4c583ecf]" started-at="2025-07-30T19:30:10 GST" name="browserClose" finished-at="2025-07-30T19:30:10 GST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserClose -->
